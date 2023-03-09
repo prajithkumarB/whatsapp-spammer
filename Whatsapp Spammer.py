@@ -1,4 +1,4 @@
-#developed by @codewithprajith
+#developed by @prajithkumarB
 
 #Instructions 
 # 1. While entering the number of times you need to open the person's whatsapp chat and run the program
@@ -19,4 +19,4 @@ while i<int(limit):
     pt.press("enter")
     i+=1
 
-#developed by @codewithprajith
+#developed by @prajithkumarB
